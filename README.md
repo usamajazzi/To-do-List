@@ -33,4 +33,3 @@ Click the delete (×) button to remove a task.
 License
 
 This project is open-source and free to use."# To-do-List" 
-"# todo-List" 
